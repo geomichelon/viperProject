@@ -7,6 +7,12 @@
 //
 
 import UIKit
+import Foundation
+import ObjectMapper
+import Foundation
+import Alamofire
+import AlamofireObjectMapper
+import RxSwift
 
 class ViewController: UIViewController {
 
